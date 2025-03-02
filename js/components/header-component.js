@@ -25,10 +25,10 @@ class HeaderComponent extends HTMLElement {
         </div>
 
         <ul class="mobile-menu">
-          <li><a href="/index.html">Inicio</a></li>
-          <li><a href="/pages/novelas.html">Novelas</a></li>
-          <li><a href="/pages/preguntasfrecuentes.html">FAQ</a></li>
-          <li><a href="/pages/sobrenosotros.html">Nosotros</a></li>
+            <li><a href="https://rtber.github.io/novelas-web-/index.html">Inicio</a></li>
+            <li><a href="https://rtber.github.io/novelas-web-/pages/novelas.html">Novelas</a></li>
+            <li><a href="https://rtber.github.io/novelas-web-/pages/preguntasfrecuentes.html">FAQ</a></li>
+            <li><a href="https://rtber.github.io/novelas-web-/pages/sobrenosotros.html">Nosotros</a></li>
         </ul>
       </nav>
     </header>
